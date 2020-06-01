@@ -1,6 +1,6 @@
 name = "Julia_jll"
 uuid = "244e23d5-fc54-5d73-9c72-02c970f46b1e"
-version = "1.4.1+1"
+version = "1.4.2+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"

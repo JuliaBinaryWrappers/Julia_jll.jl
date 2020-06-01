@@ -40,7 +40,7 @@ end
 
 
 # Relative path to `libjulia`
-const libjulia_splitpath = ["lib", "libjulia.1.6.dylib"]
+const libjulia_splitpath = ["lib", "libjulia.1.4.dylib"]
 
 # This will be filled out by __init__() for all products, as it must be done at runtime
 libjulia_path = ""

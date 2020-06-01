@@ -1,84 +1,53 @@
 [[Julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b6220f3c8609d495b57082977d52f146622ca6e9"
+git-tree-sha1 = "af32d630cb3358c26bd5f03c788fccf9c8ff0ea5"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Julia.download]]
-    sha256 = "9cb4c04eb513dea369d41d231955797e9ef5256d793900920e7b960ec723d729"
-    url = "https://github.com/JuliaBinaryWrappers/Julia_jll.jl/releases/download/Julia-v1.4.1+1/Julia.v1.4.1.aarch64-linux-gnu-libgfortran4-cxx11.tar.gz"
-[[Julia]]
-arch = "armv7l"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "dda0202293afbed84d1c11322f69321ad65481ec"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Julia.download]]
-    sha256 = "0d733c2e0147d6ffb731b638a8b1bd4225069c5735df22bc3a953dffce663d74"
-    url = "https://github.com/JuliaBinaryWrappers/Julia_jll.jl/releases/download/Julia-v1.4.1+1/Julia.v1.4.1.armv7l-linux-gnueabihf-libgfortran4-cxx11.tar.gz"
+    sha256 = "0f2b9678eceb33fe304258988ab99e0a74050c2bc13f49f5cb7947ad3c1c8282"
+    url = "https://github.com/JuliaBinaryWrappers/Julia_jll.jl/releases/download/Julia-v1.4.2+0/Julia.v1.4.2.aarch64-linux-gnu-libgfortran4-cxx11.tar.gz"
 [[Julia]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ff642e84cc21465f0ddefeafa5cbf552c014e5ea"
+git-tree-sha1 = "0cceef9fe2098ad22e9ff5378994ab7393db61ee"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Julia.download]]
-    sha256 = "bb3bcb172120b7b4e3798dc78cf1e6ec9731f07e407a2eacd03be0b5a5d2ce41"
-    url = "https://github.com/JuliaBinaryWrappers/Julia_jll.jl/releases/download/Julia-v1.4.1+1/Julia.v1.4.1.i686-linux-gnu-libgfortran4-cxx11.tar.gz"
+    sha256 = "8d62670127fe0c183fc304bcb2380e539d02423afd8b498270517a0dea7b1854"
+    url = "https://github.com/JuliaBinaryWrappers/Julia_jll.jl/releases/download/Julia-v1.4.2+0/Julia.v1.4.2.i686-linux-gnu-libgfortran4-cxx11.tar.gz"
 [[Julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8fd6cf29ef0ec0d7724a9481fb6878b68c73c5c7"
-libgfortran_version = "4.0.0"
-os = "windows"
-
-    [[Julia.download]]
-    sha256 = "621029838e895bf5f201d0858fdbd31f1bb7f458aa0bc0646b4b30185a7d8e7c"
-    url = "https://github.com/JuliaBinaryWrappers/Julia_jll.jl/releases/download/Julia-v1.4.1+1/Julia.v1.4.1.x86_64-w64-mingw32-libgfortran4-cxx11.tar.gz"
-[[Julia]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "805d2a6ae339957a5ea124d253589b65245a48e0"
-libgfortran_version = "4.0.0"
-os = "windows"
-
-    [[Julia.download]]
-    sha256 = "e9b4f076478a2eaeb959efdc6e89a86998cb2976fc01d872572bced85f9f0f5b"
-    url = "https://github.com/JuliaBinaryWrappers/Julia_jll.jl/releases/download/Julia-v1.4.1+1/Julia.v1.4.1.i686-w64-mingw32-libgfortran4-cxx11.tar.gz"
-[[Julia]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "b1b0bd4f5b857fa6ecde0e5864c57aca4fedc208"
-libgfortran_version = "4.0.0"
-os = "freebsd"
-
-    [[Julia.download]]
-    sha256 = "b7b589af16b23ff1bb594be7d3be5746ad3cc3309403306ddabd3cfa855efe8e"
-    url = "https://github.com/JuliaBinaryWrappers/Julia_jll.jl/releases/download/Julia-v1.4.1+1/Julia.v1.4.1.x86_64-unknown-freebsd11.1-libgfortran4-cxx11.tar.gz"
-[[Julia]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "02298c11003d55c00b1061a711f52a8efe3d5df2"
+git-tree-sha1 = "c5032940cd3fd4386b1763fa920c4763bd7d6ff1"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[Julia.download]]
-    sha256 = "f6d94a3184b0241f20f78523de581949afa038f3e320fb9fd20a83019968adca"
-    url = "https://github.com/JuliaBinaryWrappers/Julia_jll.jl/releases/download/Julia-v1.4.1+1/Julia.v1.4.1.x86_64-apple-darwin14-libgfortran4-cxx11.tar.gz"
+    sha256 = "d74340b33827ce4704e64504119bfbe764e87c7bccc9527d43a4f060e51542ba"
+    url = "https://github.com/JuliaBinaryWrappers/Julia_jll.jl/releases/download/Julia-v1.4.2+0/Julia.v1.4.2.x86_64-apple-darwin14-libgfortran4-cxx11.tar.gz"
 [[Julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "171798a6cd9d9d998ac8509583248b93873ab586"
+git-tree-sha1 = "23fa1d507e98e6acb856c3b7527bacc294d77254"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Julia.download]]
-    sha256 = "378b6a23ce4363eeb7afd5bd8092f902caa512f2f987dfc47fc51ae6bdff0e56"
-    url = "https://github.com/JuliaBinaryWrappers/Julia_jll.jl/releases/download/Julia-v1.4.1+1/Julia.v1.4.1.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
+    sha256 = "0206c5bf427c6cb611fb0575baef00a4dd002932d5c5ee1590af51791e734d02"
+    url = "https://github.com/JuliaBinaryWrappers/Julia_jll.jl/releases/download/Julia-v1.4.2+0/Julia.v1.4.2.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[Julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5aa781aff4c9303f785fcaad0cb03ef59a286b46"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[Julia.download]]
+    sha256 = "c18e9ecdc6ff87fe198ff4b7c33d331423d6655d73bb38d84147991831d6cfb9"
+    url = "https://github.com/JuliaBinaryWrappers/Julia_jll.jl/releases/download/Julia-v1.4.2+0/Julia.v1.4.2.x86_64-unknown-freebsd11.1-libgfortran4-cxx11.tar.gz"
